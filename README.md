@@ -4,7 +4,7 @@ Here I present my assignment solutions for EECS 498-007 / 598-005 (Deep Learning
 
 # Links
 
-[Official website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)  - Details of Course
+[Official website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)  - Course Description
 
 [Course Material](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)  - Lecture slides, Reading Material and Assignments for Fall 2020
 
