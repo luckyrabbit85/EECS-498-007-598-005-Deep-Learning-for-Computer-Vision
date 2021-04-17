@@ -10,3 +10,7 @@ Here I present my assignment solutions for EECS 498-007 / 598-005 (Deep Learning
 
 [Lectures 2019](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)  
 
+
+# Credits  
+
+I would like to thank everyone involved, directly or indirectly, for making such a great course freely available for everyone. Especially, the instructors: Fei-Fei Li, Andrej Karpathy, Serena Yeung and Justin Johnson.
