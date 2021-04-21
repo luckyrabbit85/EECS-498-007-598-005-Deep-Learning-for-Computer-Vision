@@ -397,11 +397,13 @@ def knn_get_best_k(k_to_accuracies):
   # the value of k that has the highest mean accuracy accross all folds.       #
   ##############################################################################
   # Replace "pass" statement with your code
+  
   new_dict = {}
   for k, accs in sorted(k_to_accuracies.items()):
      new_dict[k] = sum(accs) / len(accs) 
   max_value = max(new_dict.values())
   best_k = [k for k, v in new_dict.items() if v == max_value][0]
+  
   ##############################################################################
   #                            END OF YOUR CODE                                #
   ##############################################################################
